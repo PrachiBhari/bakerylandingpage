@@ -1,0 +1,24 @@
+space-x-11 : used for space between children of the tag
+
+[](sqaure bracket notation):used to define new utility class
+eg:mx-[120px]
+
+responsive webpage:
+sm:w-6 h-4(first write viewpost then colon then while utility class)
+tip:first set for smaller viewport then for larger
+
+hidden and block utility classes:
+as name suggest
+
+
+hover,active,focus
+hover:(when mouse points over),active:(when clicked),focus:(when tab)
+
+git :version control system
+
+
+changes to make on bakery webpage:
+about us part ,remove padding and margin,make text shorter ,make it responsive
+make last image of catalogue hidden or create a better flex ,shorten width and height,
+add customer reviews
+
